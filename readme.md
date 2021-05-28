@@ -1,2 +1,2 @@
-## Practice implicating stacks, queues and dequeue
+## Practice implicating stacks, queues and deque's
 
